@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **aherrera3/aherrera3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-  🙋🏻‍♀️ I'm Angélica Herrera!
+-  🤓 I'm studying Physics at Universidad de Los Andes.
+-  🌱 I’m currently interested in High Energy Physics, IA and Web Development. 
+-  📫 How to reach me: 
+      - <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpsdrgVRfgrmxgnbLPjwFLXWzLbrvLnWVSZhnLMlJGmphSnWTwSDrCSTFnVCnwcVnFjXB"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) </a>  angelicaherreraalba@gmail.com
+      - <a href="linkedin.com/in/angelica-herrera-alba" > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white) </a>
+
+<!-- get to know me better: 
+-  <img alt="React" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+-   
+-    
+-      -->
