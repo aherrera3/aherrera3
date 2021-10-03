@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -  🤓 I'm studying Physics at Universidad de Los Andes.
 -  🌱 I’m currently interested in High Energy Physics, IA and Web Development. 
 -  📫 How to reach me: 
-      - <!--![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) angelicaherreraalba@gmail.com-->
+      <!-- - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) angelicaherreraalba@gmail.com-->
       - <a href="linkedin.com/in/angelica-herrera-alba" > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white) </a>
 
 <!-- get to know me better: 
