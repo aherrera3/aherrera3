@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -  🤓 I'm studying Physics at Universidad de Los Andes.
 -  🌱 I’m currently interested in:
             <ul>
-                  <li> High Energy Physics (neutrino-proton interactions). </li>
+                  <li> High Energy Physics (neutrino-proton interactions at ultra high energies, up to 10^12 GeV). </li>
                   <li> Front End Web Development. </li>
                   <li> Web Design. </li>
                   <li> DataBases. </li>
