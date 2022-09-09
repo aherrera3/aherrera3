@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 -  🙋🏻‍♀️ I'm Angélica Herrera!
 
--  🤓 I'm studying Physics at Universidad de Los Andes.
+-  🤓 I'm a physicist from Universidad de Los Andes.
 -  🌱 I’m currently interested in:
             <ul>
                   <li> High Energy Physics (neutrino-proton interactions at ultra high energies, up to 10^12 GeV). </li>
-                  <li> Front End Web Development. </li>
+                  <li> Front-End Web Development. </li>
                   <li> Web Design. </li>
-                  <li> DataBases. </li>
             </ul>
 -  📫 How to reach me: 
       <!-- - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) angelicaherreraalba@gmail.com-->
