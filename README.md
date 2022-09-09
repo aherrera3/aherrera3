@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 -  📫 How to reach me: 
       <!-- - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) angelicaherreraalba@gmail.com-->
       - <a href="https://www.linkedin.com/in/angelica-herrera-alba/" > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white) </a>
-      - <a href="https://www.instagram.com/ang_maria3/"> ![Instagram](https://img.shields.io/badge/<Intagram>-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white) </a>
 
 <!-- get to know me better: 
 -  <img alt="React" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
