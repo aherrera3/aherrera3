@@ -2,9 +2,10 @@
 
 🙋🏻‍♀️ I'm Angélica Herrera Alba! <br>
 📍 I'm from Colombia 💛💙❤️ <br>
-🤓 I'm a graduated physicist from Universidad de Los Andes, @ Uniandes.<br>
+🤓 I'm a physicist from Universidad de Los Andes, @ Uniandes.<br>
 🌱 I’m currently developing my carrer as a Front-End Web Developer, building my portfolio.<br>
-🌼In my free time I deeply enjoy crocheting, learning languages, reading, and playing video games.
+🧶 I just opened my online crochet store, you can see it [here](https://instagram.com/mailo_crochet_store). <br>
+🌼 On my free time I deeply enjoy crocheting, learning languages, reading, and playing video games.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ang_maria3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelicaherreraalba) 
