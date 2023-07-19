@@ -18,7 +18,7 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ang_maria3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelicaherreraalba)      
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelicamariaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/angelicaherreraalba](https://www.linkedin.com/in/angelicaherreraalba/?locale=en_US))      
 
 [![](https://visitcount.itsvg.in/api?id=aherrera3&icon=0&color=0)](https://visitcount.itsvg.in)
 
