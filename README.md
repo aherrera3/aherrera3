@@ -11,10 +11,10 @@
  
 # 📊 GitHub Stats:
 <div>
-  <a href="https://github.com/aherrera3">
+<!--   <a href="https://github.com/aherrera3"> -->
    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aherrera3&theme=radical&hide_border=false"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aherrera3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
+<!--   </a> -->
 </div>
 
 ## 🌐 Socials:
