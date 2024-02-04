@@ -2,8 +2,8 @@
 
 🙋🏻‍♀️ I'm Angélica Herrera Alba! <br>
 📍 I'm from Colombia 💛💙❤️ <br>
-🤓 I'm a physicist from Universidad de Los Andes, @ Uniandes.<br>
-🌱 I’m currently developing my carrer as a Front-End Web Developer.<br>
+🌱 I’m a Frontend Web Developer with 1+ years of experience.<br>
+🤓 I hold a bachelors degree in Physics from Universidad de Los Andes.<br>
 🌼 On my free time I deeply enjoy crocheting, learning languages, reading and playing video games.
 
 # 💻 Tech Stack:
