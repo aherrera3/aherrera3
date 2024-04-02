@@ -1,8 +1,8 @@
 # 💫 About me:
 
 🙋🏻‍♀️ I'm Angélica Herrera Alba! <br>
-📍 I'm from Colombia 💛💙❤️ <br>
-🌱 I’m a Frontend Web Developer with 1+ years of experience.<br>
+📍 I'm from Colombia. <br>
+🌱 I’m a Frontend Web Developer with 1.5 years of experience.<br>
 🤓 I hold a bachelors degree in Physics from Universidad de Los Andes.<br>
 🌼 On my free time I deeply enjoy crocheting, learning languages, reading and playing video games.
 
