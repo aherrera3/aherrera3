@@ -1,6 +1,6 @@
 # 💫 About me:
 
-🙋🏻‍♀️ I'm Angélica Herrera Alba! <br>
+🙋🏻‍♀️ I'm Angélica Herrera Alba. <br>
 📍 I'm from Colombia. <br>
 🌱 I’m a Frontend Web Developer with 1.5 years of experience.<br>
 🤓 I hold a bachelors degree in Physics from Universidad de Los Andes.<br>
@@ -18,7 +18,7 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelicaherreraalba/?locale=en_US)      
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelicaherreraalba)      
 
 [![](https://visitcount.itsvg.in/api?id=aherrera3&icon=0&color=0)](https://visitcount.itsvg.in)
 
