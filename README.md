@@ -1,10 +1,10 @@
 # 💫 About me:
 
-🙋🏻‍♀️ I'm Angélica Herrera Alba. <br>
-📍 I'm from Colombia 💛💙❤️ <br>
-🌱 I’m a Frontend Developer with 2 years of experience.<br>
-🤓 I hold a bachelors degree in Physics from Universidad de Los Andes.<br>
-🌼 On my free time I deeply enjoy crocheting, learning languages, reading and playing video games.
+🙋🏻‍♀️ Hi, I’m Angélica Herrera Alba! <br>
+👩🏻‍💻 Frontend Developer with 2 years of experience. <br>
+📍 Based in Berlin, Germany. <br>
+🚀 Passionate about building modern, high-performance web experiences with React, Next.js & TypeScript. <br>
+🎮 In my free time, you’ll find me crocheting, learning languages, reading, or playing video games. <br>
 
 My portfolio: https://aherrera3.github.io
 
