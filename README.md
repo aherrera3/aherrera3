@@ -1,7 +1,7 @@
 # 💫 About me:
 
 🙋🏻‍♀️ Hi, I’m Angélica Herrera Alba! <br>
-👩🏻‍💻 Frontend Developer with 2 years of experience. <br>
+👩🏻‍💻 Frontend Developer with almost 3 years of experience. <br>
 📍 Based in Berlin, Germany. <br>
 🚀 Passionate about building modern, high-performance web experiences with React, Next.js & TypeScript. <br>
 🎮 In my free time, you’ll find me crocheting, learning languages, reading, or playing video games. <br>
